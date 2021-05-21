@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valentin Chaboche</h1>
 <h3 align="center">Computer Science Student</h3>
 
-- 🔭 I’m currently working on [PresidentJS](https://github.com/vch9/PresidentJS)
-
-- 🌱 I’m currently learning **Scala, Docker**
-
 - 📫 How to reach me **valentinchb@gmail.com**
 
 <p align="left">
